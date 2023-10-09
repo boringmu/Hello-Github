@@ -9,7 +9,7 @@ An animator trying to get in the world of programmer
 <img src="https://github.com/boringmu/Hello-Github/assets/54476767/a71e44a6-fa20-4db1-8dca-ddb9ad786564" width="400"></img>
 <br>
 - 项目快捷操作
-  - [Home](#Home(Dashboard)) ->
+  - [Home](#Home-Dashboard) ->
   - Issues ->
   - Pull requests ->
   - Discussions ->
@@ -25,7 +25,7 @@ An animator trying to get in the world of programmer
 <img src="https://github.com/boringmu/Hello-Github/assets/54476767/3e7c7ca6-2654-4fda-a440-b4b08e4cc7a1" width="400"></img>
 <br>
 
-# Home(Dashboard)
+# Home-Dashboard
 Github的个人首页，主要用于了解所关注的项目新闻，社区新闻，以及自己的最新动态。
 
 <img src="https://github.com/boringmu/Hello-Github/assets/54476767/c99604e7-fefa-4c30-9c9f-3c2e2b0e744e"></img>
