@@ -9,7 +9,7 @@ An animator trying to get in the world of programmer
 <img src="https://github.com/boringmu/Hello-Github/assets/54476767/a71e44a6-fa20-4db1-8dca-ddb9ad786564" width="400"></img>
 <br>
 - 项目快捷操作
-  - [Home](#Home(Dashboard))->
+  - [[Home](#Home(Dashboard))](https://github.com/boringmu/Hello-Github/tree/master#homedashboard)->
   - Issues ->
   - Pull requests ->
   - Discussions ->
