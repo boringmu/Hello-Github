@@ -1,8 +1,8 @@
-# Hello-Github
+# Hello-GitHub
 An animator trying to get in the world of programmer
 
 # Main Menus
-从左右上角的两个主菜单了解Github的操作架构。
+从左右上角的两个主菜单了解GitHub的操作架构。
 ## Top-left Menu
 站内快捷操作，主要便于日常使用需求。（聚焦当前项目以及社交）
 <br>
@@ -24,6 +24,23 @@ An animator trying to get in the world of programmer
 <br>
 <img src="https://github.com/boringmu/Hello-Github/assets/54476767/3e7c7ca6-2654-4fda-a440-b4b08e4cc7a1" width="400"></img>
 <br>
+- 分类项
+  - Your repositories
+  - Your projects
+  - Your organizations
+  - Your enterprises
+  - Your stars
+  - Your sponsors
+  - Your gists
+- 系统功能
+  - Upgrade
+  - Try Enterprise
+  - Copilot
+  - Feature preview
+  - Settings
+- 支持
+  - GitHub Docs
+  - GitHub Support
 
 # Home-Dashboard
 Github的个人首页，主要用于了解所关注的项目新闻，社区新闻，以及自己的最新动态。
