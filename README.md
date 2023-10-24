@@ -11,7 +11,7 @@ An animator trying to get in the world of programmer
 - **项目快捷操作**
   - **[Home](#Home)** -> GitHub个人首页
   - **[Issues](#Issues)** -> 问题反馈汇总页面
-  - **[Pull requests](#Pull requests)** -> 拉去请求页面（多人协作）
+  - **[Pull requests](#Pull-requests)** -> 拉去请求页面（多人协作）
   - **[Discussions](#Discussions)** -> 讨论页面
   - **[Codespaces](#Codespaces)** -> 在线代码编辑器
 - **社区**
